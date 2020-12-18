@@ -1,0 +1,25 @@
+#warning{
+    color: red;
+    font-weight: bold
+}
+.jumbotron{
+    text-align:center
+}
+.sprite{
+    height: 250px;
+    width:250px;
+    margin: auto;
+}
+.pokeCard{
+    background: #EEEEEE;
+    text-align: center;
+    border-radius: 10px;
+    margin:auto;
+}
+.pokeQuery{
+    margin:auto;
+    padding: 10px;
+}
+.pokeInput, .submitBtn{
+    height: 40px;
+}
